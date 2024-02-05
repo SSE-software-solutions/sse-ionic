@@ -1,0 +1,7 @@
+{
+  "name": "mbt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
